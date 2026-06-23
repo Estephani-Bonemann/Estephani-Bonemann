@@ -9,14 +9,14 @@ Minha experiência profissional anterior foi desenvolvida em ambientes que exigi
 Neste GitHub você encontrará projetos voltados para desenvolvimento backend, bancos de dados, lógica de programação e boas práticas de engenharia de software, refletindo minha evolução contínua como desenvolvedora.
 
 ## Tecnologias
-Java
-Spring Boot
-SQL
-Git e GitHub
-Orientação a Objetos
-Estruturas de Dados
-Objetivo Profissional
+- Java
+- Spring Boot
+- SQL
+- Git e GitHub
+- Orientação a Objetos
+- Estruturas de Dados
 
+## Objetivo Profissional
 Atuar no desenvolvimento de sistemas corporativos, contribuindo para a criação de soluções escaláveis, seguras e de qualidade.
 
 ## Contato
